@@ -1,0 +1,22 @@
+{
+  "name": "internal-dyndns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^1.14.0"
+  },
+  "prettier": {
+    "tabs": true
+  },
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "aws-sdk": "^2.286.1",
+    "yargs": "^12.0.1"
+  }
+}
